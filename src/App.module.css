@@ -1,0 +1,4 @@
+.appBlock {
+  display: grid;
+  grid-template-rows:  5.5vh 89vh 5.5vh;
+}

@@ -1,0 +1,20 @@
+.footer {
+  display: flex;
+  align-items: center;
+  margin: 0px 60px;
+  background-color: white;
+  z-index: 0;
+}
+
+.footerText {
+  font-family: 'GilroyLight';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 13px;
+  line-height: 15px;
+  color: #505050;
+/* identical to box height */
+
+  letter-spacing: 0.175729px;
+  text-transform: uppercase;
+}

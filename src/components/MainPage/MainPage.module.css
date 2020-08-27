@@ -1,0 +1,45 @@
+.mainPage {
+  display: grid;
+  grid-template-columns: 280px 1520px;
+  margin: 0px 60px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.menu {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.mainContent {
+  display: flex;
+  background: #F0F0F0;
+  justify-content: center;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.navLink {
+  text-decoration: none;
+  color: #262525;
+}
+
+
+li {
+  margin-bottom: 30px;
+  list-style-type: none; 
+  font-style: normal;
+  font-weight: 300;
+  font-size: 13px;
+  line-height: 15px;
+  letter-spacing: 0.567739px;
+}
+
+ul {
+  margin-left: 0; /* Отступ слева в браузере IE и Opera */
+  padding-left: 0; /* Отступ слева в браузере Firefox, Safari, Chrome */
+}

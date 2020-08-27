@@ -1,0 +1,92 @@
+
+.menu-enter {
+  opacity: 0.6;
+  transition: all 400ms;
+}
+
+.menu-active-enter {
+  /*We give the list the initial dimension of the list button*/
+  opacity: 0.2;
+  transition: all 400ms;
+}
+/* This is where we can add the transition*/
+
+.menu-done-enter {
+  color: #262525;
+  text-decoration: none;
+  position: relative;
+  text-transform: uppercase;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 16px;
+  transition: all 300ms;
+}
+
+/* This fires as soon as the this.state.showList is false */
+.menu-exit {
+  list-style-type: none; 
+  font-style: normal;
+  font-weight: 300;
+  font-size: 13px;
+  line-height: 15px;
+  transition: all 300ms;
+}
+
+/* This fires as soon as the this.state.showList is false */
+.menu-done-exit {
+  list-style-type: none; 
+  font-style: normal;
+  font-weight: 300;
+  font-size: 13px;
+  line-height: 15px;
+  transition: all 300ms;
+}
+
+/* fires as element leaves the DOM*/
+.menu-active-exit {
+  list-style-type: none; 
+  font-style: normal;
+  font-weight: 300;
+  font-size: 13px;
+  line-height: 15px;
+  transition: all 300ms;
+}
+
+.menu-done-enter:after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  border-bottom: 9px solid #EBD8CC;
+  width: 100%;
+}
+ 
+.content-enter,
+.content-appear {
+  margin-top: 400px;
+  opacity: 0;
+}
+
+.content-active-enter,
+.content-active-appear {
+  margin-top: 0px;
+  opacity: 1;
+  transition: opacity 1000ms, margin-top 500ms;
+}
+
+.illustration-enter,
+.illustration-appear { 
+  height: 100%;
+  width: auto;
+  z-index: -1;
+  margin-top: -1000px;
+}
+
+.illustration-active-enter,
+.illustration-active-appear {
+  height: 100%;
+  width: auto;
+  margin-top: 0px;
+  transition: margin-top 500ms;
+}
