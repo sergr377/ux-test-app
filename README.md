@@ -1,3 +1,29 @@
+Ux-test-app 
+=====================
+App demonstrating usage of the React Transition Group and advanced UX/UI design.
+
+### Demo
+[Ux-test-app](https://sergr377.github.io/ux-test-app/)
+
+### Tools in project:
+ 
+ * React</li>
+ * React-router-dom
+ * React-transition-group
+ * Сlassnames
+ * Gh-pages
+## Installation
+
+1. Clone the repo
+2. ```cd ux-test ```
+3. npm install
+4. npm start
+5. Open your browser at: ```http://localhost:3000```
+
+(default react readme below this line)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
