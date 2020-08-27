@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.3660e28c.chunk.css",
+    "main.css": "/static/css/main.047924f5.chunk.css",
     "main.js": "/static/js/main.d91a0349.chunk.js",
     "main.js.map": "/static/js/main.d91a0349.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.66cb2ac5.js",
@@ -8,9 +8,9 @@
     "static/js/2.1786865b.chunk.js": "/static/js/2.1786865b.chunk.js",
     "static/js/2.1786865b.chunk.js.map": "/static/js/2.1786865b.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ff16ad79a3afd730cad917ba7f67ca77.js": "/precache-manifest.ff16ad79a3afd730cad917ba7f67ca77.js",
+    "precache-manifest.9e6a2e47edb64cee24aea11734f98845.js": "/precache-manifest.9e6a2e47edb64cee24aea11734f98845.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.3660e28c.chunk.css.map": "/static/css/main.3660e28c.chunk.css.map",
+    "static/css/main.047924f5.chunk.css.map": "/static/css/main.047924f5.chunk.css.map",
     "static/js/2.1786865b.chunk.js.LICENSE.txt": "/static/js/2.1786865b.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Gilroy-Light.c62aded7.otf",
     "static/media/Illustration - Архитектура.png": "/static/media/Illustration - Архитектура.f8fbd174.png",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.66cb2ac5.js",
     "static/js/2.1786865b.chunk.js",
-    "static/css/main.3660e28c.chunk.css",
+    "static/css/main.047924f5.chunk.css",
     "static/js/main.d91a0349.chunk.js"
   ]
 }
