@@ -21,11 +21,15 @@ const App = () => {
         <Switch>
           <Route exact path="/"
             children={<Navbar />} />
+          <Route exact path="/ux-test-app"
+            children={<Navbar />} />
           <Route path="/:id"
             children={<Navbar />} />
         </Switch>
         <Switch>
           <Route exact path='/'
+            render={() => <Architecture />} />
+          <Route exact path='/ux-test-app'
             render={() => <Architecture />} />
           <Route path='/architecture'
             render={() => <Architecture />} />
