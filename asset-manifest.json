@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3660e28c.chunk.css",
+    "main.js": "/static/js/main.d91a0349.chunk.js",
+    "main.js.map": "/static/js/main.d91a0349.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.66cb2ac5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.66cb2ac5.js.map",
+    "static/js/2.1786865b.chunk.js": "/static/js/2.1786865b.chunk.js",
+    "static/js/2.1786865b.chunk.js.map": "/static/js/2.1786865b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ff16ad79a3afd730cad917ba7f67ca77.js": "/precache-manifest.ff16ad79a3afd730cad917ba7f67ca77.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.3660e28c.chunk.css.map": "/static/css/main.3660e28c.chunk.css.map",
+    "static/js/2.1786865b.chunk.js.LICENSE.txt": "/static/js/2.1786865b.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Gilroy-Light.c62aded7.otf",
+    "static/media/Illustration - Архитектура.png": "/static/media/Illustration - Архитектура.f8fbd174.png",
+    "static/media/Illustration - Благоустройство.png": "/static/media/Illustration - Благоустройство.5ec80abc.png",
+    "static/media/Illustration - Инженерия.png": "/static/media/Illustration - Инженерия.d1e41d87.png",
+    "static/media/Illustration - Инфраструктура.png": "/static/media/Illustration - Инфраструктура.e9740cd0.png",
+    "static/media/Illustration - Транспортная доступность.png": "/static/media/Illustration - Транспортная доступность.8a068012.png",
+    "static/media/IllustrationMask - Безопастность.jpg": "/static/media/IllustrationMask - Безопастность.66672302.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66cb2ac5.js",
+    "static/js/2.1786865b.chunk.js",
+    "static/css/main.3660e28c.chunk.css",
+    "static/js/main.d91a0349.chunk.js"
+  ]
+}
