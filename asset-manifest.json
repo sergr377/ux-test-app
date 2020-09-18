@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ux-test-app/static/css/main.c4ed61c1.chunk.css",
-    "main.js": "/ux-test-app/static/js/main.979b92d2.chunk.js",
-    "main.js.map": "/ux-test-app/static/js/main.979b92d2.chunk.js.map",
+    "main.css": "/ux-test-app/static/css/main.a6057a48.chunk.css",
+    "main.js": "/ux-test-app/static/js/main.ce36b1d8.chunk.js",
+    "main.js.map": "/ux-test-app/static/js/main.ce36b1d8.chunk.js.map",
     "runtime-main.js": "/ux-test-app/static/js/runtime-main.f3e6f69b.js",
     "runtime-main.js.map": "/ux-test-app/static/js/runtime-main.f3e6f69b.js.map",
-    "static/js/2.1786865b.chunk.js": "/ux-test-app/static/js/2.1786865b.chunk.js",
-    "static/js/2.1786865b.chunk.js.map": "/ux-test-app/static/js/2.1786865b.chunk.js.map",
+    "static/js/2.a01741a0.chunk.js": "/ux-test-app/static/js/2.a01741a0.chunk.js",
+    "static/js/2.a01741a0.chunk.js.map": "/ux-test-app/static/js/2.a01741a0.chunk.js.map",
     "index.html": "/ux-test-app/index.html",
-    "precache-manifest.5bbc7b36b9f751172b10773677b8f6b4.js": "/ux-test-app/precache-manifest.5bbc7b36b9f751172b10773677b8f6b4.js",
+    "precache-manifest.4ba4dfa926fbe33077fb80bd2bde5eeb.js": "/ux-test-app/precache-manifest.4ba4dfa926fbe33077fb80bd2bde5eeb.js",
     "service-worker.js": "/ux-test-app/service-worker.js",
-    "static/css/main.c4ed61c1.chunk.css.map": "/ux-test-app/static/css/main.c4ed61c1.chunk.css.map",
-    "static/js/2.1786865b.chunk.js.LICENSE.txt": "/ux-test-app/static/js/2.1786865b.chunk.js.LICENSE.txt",
+    "static/css/main.a6057a48.chunk.css.map": "/ux-test-app/static/css/main.a6057a48.chunk.css.map",
+    "static/js/2.a01741a0.chunk.js.LICENSE.txt": "/ux-test-app/static/js/2.a01741a0.chunk.js.LICENSE.txt",
     "static/media/index.css": "/ux-test-app/static/media/Gilroy-Light.c62aded7.otf",
     "static/media/Illustration - Архитектура.png": "/ux-test-app/static/media/Illustration - Архитектура.f8fbd174.png",
     "static/media/Illustration - Благоустройство.png": "/ux-test-app/static/media/Illustration - Благоустройство.5ec80abc.png",
@@ -22,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f3e6f69b.js",
-    "static/js/2.1786865b.chunk.js",
-    "static/css/main.c4ed61c1.chunk.css",
-    "static/js/main.979b92d2.chunk.js"
+    "static/js/2.a01741a0.chunk.js",
+    "static/css/main.a6057a48.chunk.css",
+    "static/js/main.ce36b1d8.chunk.js"
   ]
 }
